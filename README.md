@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Evans Prah
 
-### Backend Engineer | Distributed Systems Architect | Problem Solver
+### Backend Engineer | Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/evans-prah)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Evans-Prah)
@@ -111,7 +111,6 @@ const currentGoals = {
   ],
   exploring: [
     "CQRS and Event Sourcing",
-    "Kubernetes operators",
     "Observability best practices"
   ]
 };
@@ -141,7 +140,7 @@ const currentGoals = {
 
 ## 💭 Engineering Philosophy
 
-> "Good code is not just about making it work—it's about making it maintainable, scalable, and elegant. 
+> "Good code is not just about making it work, it's about making it maintainable, scalable, and elegant. 
 > Every line should tell a story, every architecture should solve a real problem, 
 > and every system should be built to last."
 
