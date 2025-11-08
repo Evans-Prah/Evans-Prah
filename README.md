@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Evans Prah
+# 👋 Hi there, I'm Evans Prah
 
 ### Backend Engineer | Problem Solver
 
